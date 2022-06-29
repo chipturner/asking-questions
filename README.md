@@ -73,6 +73,10 @@ absolutely okay.  It can feel like you're making yourself vulnerable,
 but it's okay.  Show humility and the limits of your knowledge, be
 respectful in how you ask and respond, and thank whoever helped you.
 
+But!  Don't ask to ask a question.  Just ask.  You waste people's time
+if you ask to ask (see https://dontasktoask.com/ and
+https://www.nohello.com for more details).
+
 ## Ask in the Right Place
 
 Sometimes your question is perfect but you ask it in the wrong place
@@ -125,3 +129,4 @@ help and always be learning.
 
 - https://stackoverflow.com/help/how-to-ask
 - https://www.catb.org/~esr/faqs/smart-questions.html
+- https://dontasktoask.com/
