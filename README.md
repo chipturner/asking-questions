@@ -88,6 +88,10 @@ Look for the right place to ask.  See if others ask similar questions
 and the responses they get.  Be aware of your surroundings and try to
 fit the culture and processes around you.
 
+**Never ask questions over Direct Message.  Always ask in public.**
+Otherwise you are just bothering someone in a way that benefits no one
+else.
+
 ## Write Better To Get More Help
 
 Writing succinct, clear questions is critical to all forms of
