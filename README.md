@@ -13,11 +13,6 @@ Read on.
 
 # The Steps
 
-## Succinctly Summarize the Problem
-
-Write a one sentence summary of your problem.  Make it tight, clear,
-and with the right level of details.
-
 ## Start with Searching
 
 Chances are, whatever problem you are having is not new.  Someone else
@@ -34,6 +29,17 @@ appropriate ones there, too.
 If done right, 99% of questions can be answered this way without ever
 needing to ask.  Getting good at (ab)using search engines is a
 powerful skill to develop.
+
+## Succinctly Summarize the Problem
+
+Okay, search didn't work.  Time to ask your question.
+
+Write a one sentence summary of your problem.  Make it tight, clear,
+and with the right level of details.  Include relevant links to charts
+(not just screenshots!) and other supporting information.  The easier
+it is for someone to look at the same data and poke at it, the fewer
+round trips they will have in trying to help you (see below for the
+importance of this).
 
 ## Describe Steps You've Taken
 
@@ -101,25 +107,30 @@ but the reality is, the easier your question is to read, the more
 likely you are to get a response.  It may not be fair but it is
 reality.
 
-Optimize for the reader.
+Optimize for the reader.  Hone this skill.  It will payoff in other
+ways, too, not just when asking for help with PHP.
 
 ## Minimize Round Trips
 
 When you ask your question and provide more details, try to anticipate
 what someone might ask and provide it.  Not only is this an
 optimization to get an answer faster, but it is respectful of the time
-of whoever is helping you.
+of whoever is helping you.  This makes your question better.
 
 ## Satisfy the Audience
 
 Someone helped you!  Others may someday have the same problem!  So
-come back and provide closure to your audience.  Report whatever the
-problem ended up being.  Close that loop!
+come back and provide closure to your audience with whatever the root
+cause was... this is a form of showing respect to those who helped you
+and those who come along after you (since they will possibly find your
+question when they search!).  So be sure to close that loop!
 
 ## Pay it Forward
 
-Answer questions.  Be helpful.  Create a culture around you of
-willingness to help.
+Hang around in the forums that help you and that you have expertise
+in, then answer questions.  Be helpful.  Create a culture around you
+of willingness to help but also a gentle culture of nudging people in
+how to ask better questions (say, by sharing this document!).
 
 ## Internalize What You've Learned
 
