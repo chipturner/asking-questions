@@ -45,7 +45,7 @@ importance of this).
 
 You've put some effort into solving the problem (right?), so describe
 them.  Indicate things you tried, things you eliminated, things
-correlated, etc.  Anticipate what people night need to know so they
+correlated, etc.  Anticipate what people might need to know so they
 don't have to play table tennis with you to make progress.
 
 Also reference manpages and other documentation you've consulted to
